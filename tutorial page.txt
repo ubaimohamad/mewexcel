@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Excel Tutorials</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Excel Video Tutorials</h1>
+    <p><a href="index.html">Logout</a></p>
+
+    <section>
+      <h2>Lesson 1: Basic Excel Functions</h2>
+      <iframe width="560" height="315" 
+              src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1" 
+              title="Excel Lesson 1" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+    <section>
+      <h2>Lesson 2: Formatting and Styling</h2>
+      <iframe width="560" height="315" 
+              src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2" 
+              title="Excel Lesson 2" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+    <section>
+      <h2>Lesson 3: Formulas and Functions</h2>
+      <iframe width="560" height="315" 
+              src="https://www.youtube.com/embed/YOUR_VIDEO_ID_3" 
+              title="Excel Lesson 3" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+  </div>
+</body>
+</html>
